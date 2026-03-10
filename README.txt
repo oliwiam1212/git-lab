@@ -1,1 +1,2 @@
-HEJ jestem Oliwia
+ jestem Oliwia
+studiuje na agh
